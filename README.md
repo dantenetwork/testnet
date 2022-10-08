@@ -5,11 +5,11 @@
 * EVM
     * branch: dante-cross-chain@flow-rinkeby
     * Address
-        * RINKEBY: 0x2999fe13d3CAa63C0bC523E8D5b19A265637dbd2
+        * RINKEBY: `0x2999fe13d3CAa63C0bC523E8D5b19A265637dbd2`
 * Flow
     * branch: cadence-contracts@main
     * Address
-        * FLOWTEST: 0x5f37faed5f558aca
+        * FLOWTEST: `0x5f37faed5f558aca`
 ### SDK
 * EVM
     * branch: solidity-contract-template@flow-rinkeby
@@ -26,16 +26,16 @@
 * EVM
     * branch: dante-cross-chain@tag:v0.1.0
     * Address
-        * FUJI: 0x8177cBe1c9a0B08B536C55097b569dfaEc5cb520
-        * MOONBASEALPHA: 0x197D00ff70372A48c10cAe8205680c9a9f5F8370
+        * FUJI: `0x8177cBe1c9a0B08B536C55097b569dfaEc5cb520`
+        * MOONBASEALPHA: `0x197D00ff70372A48c10cAe8205680c9a9f5F8370`
 * NEAR
     * branch: dante-cross-chain@tag:v0.1.0
     * Address
-        * NEARTEST: 747252a5c43c2357f4848de3661593cb8b6fc2799909faa1462aa9e4645fb635
+        * NEARTEST: `747252a5c43c2357f4848de3661593cb8b6fc2799909faa1462aa9e4645fb635`
 * Polkadot: 
     * branch: protocol-stack-for-ink@tag:v0.1.0
     * Address
-        * SHIBUYA: YoF56GBPEGKKeokDzLxwsZyYsmCaWYPQ7eiiqdGtAZRswdd
+        * SHIBUYA: `YoF56GBPEGKKeokDzLxwsZyYsmCaWYPQ7eiiqdGtAZRswdd`
 ### SDK
 * EVM
     * branch: solidity-contract-template@tag:v0.1.0
