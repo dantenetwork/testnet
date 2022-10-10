@@ -1,6 +1,6 @@
 # testnet
 
-## version 0.2.0
+## version 0.2.0(open)
 ### Protocol
 * EVM
     * branch: dante-cross-chain@flow-rinkeby
@@ -21,7 +21,7 @@
 * branch: router@flow
 
 
-## version 0.1.0
+## version 0.1.0(to be closed)
 ### Protocol Address
 * EVM
     * branch: dante-cross-chain@tag:v0.1.0
@@ -48,7 +48,7 @@
 ### Router
 * branch: router@tag:v0.1.0
 
-## version swap demo
+## version swap demo(Open)
 ### Protocol Address
 * BSCTEST: `0x754f8bcB15BaE6A6BBc5f6DCcC87b0118f5e97e6`
 * RINKEBY: `0xcf89F199eF01501173E57D941b98C3fD3c731615`
