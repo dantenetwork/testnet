@@ -27,7 +27,7 @@
 * Ink
     * branch: ink-sdk@v0.2.0
 * Near
-    * branch: 
+    * branch: near-contract-template@v0.2.0
 ### Demo
 * branch: cross-chain-demo@flow-rinkeby
 ### Router
