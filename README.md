@@ -3,35 +3,35 @@
 ## version 0.2.0(open)
 ### Protocol
 * EVM
-    * branch: dante-cross-chain@flow-rinkeby
+    * branch: dante-cross-chain@v0.2.0
     * Address
         * RINKEBY: `0x2999fe13d3CAa63C0bC523E8D5b19A265637dbd2`
         * PLATONEVM: `0xf61C4699B99d1988EB235AF06F270029D9Ed3b63`
 * Flow
-    * branch: cadence-contracts@main
+    * branch: cadence-contracts@v0.2.0
     * Address
         * FLOWTEST: `0x5f37faed5f558aca`
 * Ink
-    * branch: protocol-stack-for-ink@develop
+    * branch: protocol-stack-for-ink@v0.2.0
     * Address
         * SHIBUYA: `bhwyMxa3xW6HFVDtbtLmnKpgWPENW91mrg3257eciaXCiWP`
 * Near
-    * branch: dante-cross-chain@develop
+    * branch: dante-cross-chain@v0.2.0
     * Address
         * NEARTEST: `170165c66e33a744726f7f8cd36885cc43aa1e55f88273df5c6aed72e45711e6`
 ### SDK
 * EVM
-    * branch: solidity-contract-template@flow-rinkeby
+    * branch: solidity-contract-template@v0.2.0
 * Flow
-    * branch: flow-sdk@main
+    * branch: flow-sdk@v0.2.0
 * Ink
-    * branch: ink-sdk@ink-2.0-alpha.3
+    * branch: ink-sdk@v0.2.0
 * Near
     * branch: 
 ### Demo
 * branch: cross-chain-demo@flow-rinkeby
 ### Router
-* branch: router@develop
+* branch: router@v0.2.0
 
 
 ## version 0.1.0(to be closed)
