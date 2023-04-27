@@ -1,6 +1,22 @@
 # testnet
 
-## version 0.2.0(open)
+## version 0.2.1(open)
+### Protocol
+* EVM
+    * branch: dante-cross-chain@v0.2.1
+    * Address
+        * MUMBAI: `0xB4b5Bb49c2390A1c059582Ed79571e4D3A76E4eF`
+        * SEPOLIA: `0xB4b5Bb49c2390A1c059582Ed79571e4D3A76E4eF`
+        * BSCTEST: `0xB4b5Bb49c2390A1c059582Ed79571e4D3A76E4eF`
+### SDK
+* EVM
+    * branch: solidity-contract-template@v0.2.1
+### Demo
+* branch: cross-chain-demo@alpha-v0.2.1
+### Router
+* branch: router@v0.2.1
+
+## version 0.2.0(closed)
 ### Protocol
 * EVM
     * branch: dante-cross-chain@v0.2.0
